@@ -21,7 +21,7 @@ A MATLAB implementation of the popular Wordle game, developed as part of a unive
 
 Watch a live demonstration of the game:
 
-[![Demo Video](media/images/demo-thumbnail.png)](https://youtu.be/S_3Ba9KBTno)
+[![Demo Video](media/Images/demoThumbnail.png)](https://youtu.be/S_3Ba9KBTno)
 
 ---
 
@@ -50,7 +50,7 @@ wordle-matlab/
 ```
 
 **Flowchart of game logic:**
-![Game Flowchart](media/images/Gameflowchartv2.png)
+![Game Flowchart](media/Images/Gameflowchartv2.png)
 
 *For full set of flowcharts and function maps, see `/docs/charts&Maps/`.*
 
@@ -59,7 +59,7 @@ wordle-matlab/
 ## Screenshots
 
 **Gameplay Example:**
-![Gameplay Screenshot](media/images/screenshot1.png)
+![Gameplay Screenshot](media/Images/screenshot1.png)
 
 ---
 
