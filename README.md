@@ -48,8 +48,20 @@ wordle-matlab/
 │── dev-history/        % Optional: Day-by-day development notes
 │── README.md
 ```
+## How It's Made
+
+***Language & Environment**: MATLAB R2022a
+
+***Design Approach**: Modular development separating game logic, input validation, and display functionality
+
+***Flow Design**: Function flowcharts and game maps were used to ensure logic clarity
+
+***Testing**: Unit testing and driver scripts were developed alongside the main code to verify correctness
+
+***Documentation**: Detailed logs, screenshots, and reflections recorded during development
 
 **Flowchart of game logic:**
+
 ![Game Flowchart](media/Images/Gameflowchartv2.png)
 
 *For full set of flowcharts and function maps, see `/docs/charts&Maps/`.*
@@ -99,6 +111,14 @@ gameStarterwordle.m
 ```
 
 ---
+## Optimizations & Lessons Learned
+- **Code Optimizations:** Improved input validation, reduced redundant calculations, modularized repeated logic for readability  
+- **Performance Improvements:** Minimized loops for efficiency, optimized word list lookups  
+- **Lessons Learned:**  
+  - Importance of planning logic flow before coding  
+  - Modular design simplifies testing and future extensions  
+  - Clear documentation and screenshots are invaluable for showcasing the project  
+  - Version control and structured folder organization prevent clutter and make the project easy to maintain
 
 ## License
 
