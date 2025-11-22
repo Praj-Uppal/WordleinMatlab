@@ -1,0 +1,4 @@
+Input               Expected index     Output Text
+First guess		1		1		
+Second Guess	  	2		2
+Third guess		3		3			

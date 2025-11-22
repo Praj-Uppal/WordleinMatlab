@@ -1,0 +1,4 @@
+Input1     Input2         Input3      Expected                                                      Output
+1          wordlistv1()   "hello"      'hello'                                                      'hello'
+2          wordlistv1()   "  #@  "    "Your word does not meet the requirements"(function repeats)  "Your word does not meet the requirements"(function repeats) 
+3          wordlistv1()   "blamt"     "Your word does not meet the requirements"(function repeats)  "Your word does not meet the requirements"(function repeats)

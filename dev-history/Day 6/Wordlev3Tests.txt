@@ -1,0 +1,3 @@
+Input           Expected sound      Expected text                                                       Output sound        Output Text
+Win case        "You win!" sound    ""You Win! You guessed the correct word, ___ on your __ attempt!"   "You win!" sound     "You Win! You guessed the correct word, Baker on your third attempt!"
+Lose case        "You lose!" sound    "You lose! The word was Occur. Better luck next time!"   "You win!" sound    "You lose! The word was Occur. Better luck next time!"

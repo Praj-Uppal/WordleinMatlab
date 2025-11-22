@@ -1,0 +1,4 @@
+Input1        Input2      Expected                                                     			 	Output
+1             "hello"      'hello'                                                      			'hello'
+2             "  #@  "    "Your guess word did not meet the guidelines!"(function repeats)  "Your guess word did not meet the guidelines!"(function repeats) 
+3             "blamt"     "Your guess word did not meet the guidelines!"(function repeats)  "Your guess word did not meet the guidelines!"(function repeats)
