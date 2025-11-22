@@ -59,7 +59,7 @@ wordle-matlab/
 ## Screenshots
 
 **Gameplay Example:**
-![Gameplay Screenshot](media/Images/screenshot1.png)
+![Gameplay Screenshot](media/Images/Screenshot1.png)
 
 ---
 
