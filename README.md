@@ -50,15 +50,15 @@ wordle-matlab/
 ```
 ## How It's Made
 
-***Language & Environment**: MATLAB R2022a
+* **Language & Environment**: MATLAB R2022a
 
-***Design Approach**: Modular development separating game logic, input validation, and display functionality
+* **Design Approach**: Modular development separating game logic, input validation, and display functionality
 
-***Flow Design**: Function flowcharts and game maps were used to ensure logic clarity
+* **Flow Design**: Function flowcharts and game maps were used to ensure logic clarity
 
-***Testing**: Unit testing and driver scripts were developed alongside the main code to verify correctness
+* **Testing**: Unit testing and driver scripts were developed alongside the main code to verify correctness
 
-***Documentation**: Detailed logs, screenshots, and reflections recorded during development
+* **Documentation**: Detailed logs, screenshots, and reflections recorded during development
 
 **Flowchart of game logic:**
 
