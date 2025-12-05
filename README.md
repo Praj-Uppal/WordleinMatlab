@@ -79,7 +79,7 @@ wordle-matlab/
 
 * Comprehensive testing of input validation and game logic
 * Test drivers located in `/docs/testing/`
-* Summary of test results and outcomes available in `/docs/testing-summary.pdf`
+* Summary of test results and outcomes available in `/docs/testing-summary`
 
 ---
 
@@ -107,7 +107,7 @@ git clone https://github.com/YOUR_USERNAME/wordle-matlab.git
 3. Run the gameStarter script:
 
 ```matlab
-gameStarterwordle.m
+gameStarter.m
 ```
 
 ---
