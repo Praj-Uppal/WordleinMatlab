@@ -100,7 +100,7 @@ Day-by-day reflections of development, testing, and iterations are stored in `/d
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wordle-matlab.git
+git clone https://github.com/Praj-Uppal/WordleinMatlab.git
 ```
 
 2. Navigate to the `src` folder in MATLAB.
